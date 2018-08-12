@@ -258,7 +258,7 @@ I'm in the queue right now. Hope to interview soon.
     - [ ] [구글 검색은 당신의 두뇌가 된다](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [ ] [데미스 허사비스(Demis Hassabis)의 딥마인드](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [책: 구글은 어떻게 일하는가](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [x] [책: 구글의 아침은 자유가 시작된다.](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58332162
+- [x] [책: 구글의 아침은 자유가 시작된다.](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58332162)
 - [ ] [구글 발표자료 - 2016.10 - 동영상](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
 ## 비디오 자료
