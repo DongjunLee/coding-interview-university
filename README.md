@@ -742,7 +742,7 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 - ### Binary search
     - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+    - [x] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
     - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
